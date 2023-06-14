@@ -74,7 +74,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#E6F3F5]",
+      bgcolor: "[#E6F3F5]",
     },
     {
       id: 2,
@@ -88,7 +88,7 @@ module.exports = {
         <AiFillStar size={15} color="#d8d6d6" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#E6F3F5]",
+      bgcolor: "[#E6F3F5]",
     },
     {
       id: 3,
@@ -102,7 +102,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#ffb600" />,
       ],
-      bgcolor: "bg-[#EAEEFA]",
+      bgcolor: "[#EAEEFA]",
     },
     {
       id: 4,
@@ -116,7 +116,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#F9EEF3]",
+      bgcolor: "[#F9EEF3]",
     },
     {
       id: 5,
@@ -130,7 +130,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#F0FEEB]",
+      bgcolor: "[#F0FEEB]",
     },
     {
       id: 6,
@@ -144,7 +144,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#ffb600" />,
       ],
-      bgcolor: "bg-[#F3F7D9]",
+      bgcolor: "[#F3F7D9]",
     },
     {
       id: 7,
@@ -158,7 +158,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#F3F7D9]",
+      bgcolor: "[#F3F7D9]",
     },
     {
       id: 8,
@@ -172,7 +172,7 @@ module.exports = {
         <AiFillStar size={15} color="#ffb600" />,
         <AiFillStar size={15} color="#d8d6d6" />,
       ],
-      bgcolor: "bg-[#EAEEFA]",
+      bgcolor: "[#EAEEFA]",
     },
   ],
   footerCategories: [

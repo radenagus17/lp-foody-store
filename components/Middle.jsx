@@ -12,7 +12,7 @@ export default function Middle() {
           return (
             <div
               key={id}
-              className={`p-3 rounded-lg ${bgcolor} drop-shadow-lg relative z-20 hover:before:absolute hover:before:-z-20 hover:before:inset-0 hover:before:bg-hero-pattern hover:before:bg-cover hover:before:opacity-10 transition-all duration-300 cursor-pointer hover:scale-105`}
+              className={`p-3 rounded-lg bg-${bgcolor} drop-shadow-lg relative z-20 hover:before:absolute hover:before:-z-20 hover:before:inset-0 hover:before:bg-hero-pattern hover:before:bg-cover hover:before:opacity-10 transition-all duration-300 cursor-pointer hover:scale-105`}
             >
               <div className="w-28 rounded-lg overflow-hidden">
                 <Image src={image} alt={name} />

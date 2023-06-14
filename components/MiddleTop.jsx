@@ -1,7 +1,7 @@
 import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 import RowIcons from "./RowIcons";
 import { SlideLeft, SlideRight } from "@/helpers/SlideClick";
-import { categories } from "@/data";
+import categories from "@/data/categories";
 
 export default function MiddleTop() {
   return (
