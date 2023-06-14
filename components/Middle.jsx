@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { TrendingReceipts } from "@/data";
 // image receipts
 import bret from "@/assets/receipes/pexels-brett-jordan-842519 1.png";
 import daria from "@/assets/receipes/pexels-daria-shevtsova-1260968 1.png";
