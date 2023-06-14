@@ -35,6 +35,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.4.24"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:18.2.0"],\
+            ["react-icons", "virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:4.9.0"],\
+            ["tailwind-scrollbar-hide", "npm:1.1.7"],\
             ["tailwindcss", "npm:3.3.2"]\
           ],\
           "linkType": "SOFT"\
@@ -2949,6 +2951,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.4.24"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:18.2.0"],\
+            ["react-icons", "virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:4.9.0"],\
+            ["tailwind-scrollbar-hide", "npm:1.1.7"],\
             ["tailwindcss", "npm:3.3.2"]\
           ],\
           "linkType": "SOFT"\
@@ -3882,6 +3886,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["react-icons", [\
+        ["npm:4.9.0", {\
+          "packageLocation": "./.yarn/cache/react-icons-npm-4.9.0-633c387145-69d1000d02.zip/node_modules/react-icons/",\
+          "packageDependencies": [\
+            ["react-icons", "npm:4.9.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:4.9.0", {\
+          "packageLocation": "./.yarn/__virtual__/react-icons-virtual-ff3f19ea53/0/cache/react-icons-npm-4.9.0-633c387145-69d1000d02.zip/node_modules/react-icons/",\
+          "packageDependencies": [\
+            ["react-icons", "virtual:a229cfc2d1492c6fbd64c7ab4c31ffe437bbbe2ceced8f7d81ba08d2a8cca911be2bd010b2c0ca9e607735d597f2117e3c17df1fa4adffd4330327a184c4cc94#npm:4.9.0"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["react-is", [\
         ["npm:16.13.1", {\
           "packageLocation": "./.yarn/cache/react-is-npm-16.13.1-a9b9382b4f-f7a19ac349.zip/node_modules/react-is/",\
@@ -4406,6 +4432,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["synckit", "npm:0.8.5"],\
             ["@pkgr/utils", "npm:2.4.1"],\
             ["tslib", "npm:2.5.3"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["tailwind-scrollbar-hide", [\
+        ["npm:1.1.7", {\
+          "packageLocation": "./.yarn/cache/tailwind-scrollbar-hide-npm-1.1.7-537baa5b75-2434a1db7a.zip/node_modules/tailwind-scrollbar-hide/",\
+          "packageDependencies": [\
+            ["tailwind-scrollbar-hide", "npm:1.1.7"]\
           ],\
           "linkType": "HARD"\
         }]\

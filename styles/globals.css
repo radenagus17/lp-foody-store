@@ -25,3 +25,19 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+section {
+  @apply w-full relative;
+}
+
+h1 {
+  @apply text-greenDark text-4xl lg:text-5xl capitalize font-semibold;
+}
+
+h2 {
+  @apply text-2xl lg:text-3xl capitalize;
+}
+
+.btn-primary {
+  @apply rounded-full bg-greenDark text-white text-xs lg:text-sm px-4 py-2 hover:bg-transparent hover:ring-1 hover:ring-greenDark hover:text-greenDark transition duration-300;
+}
