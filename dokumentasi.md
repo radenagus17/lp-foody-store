@@ -3,8 +3,8 @@
 1. Penginstalan:
   - Pastikan Anda telah menginstal Node.js di komputer Anda. Jika belum, Anda dapat mengunduh dan menginstal Node.js dari situs resmi mereka.
   - Buka terminal atau command prompt, lalu jalankan perintah berikut untuk memeriksa apakah Node.js sudah terinstal dengan benar:
-    a. node -v
-    b. npm -v
+    * node -v
+    * npm -v
   - Setelah Node.js terinstal, Anda dapat membuat direktori baru untuk proyek Next.js Anda.
   - Buka terminal atau command prompt, lalu arahkan ke direktori proyek Anda menggunakan perintah cd.
   - Jalankan perintah berikut untuk menginisialisasi proyek Next.js:
